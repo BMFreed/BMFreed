@@ -1,16 +1,26 @@
-### Hi there 👋
+# Greetings! 👋
+# I'm Bogdan, a frontend web-developer.
 
-<!--
-**BMFreed/BMFreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My skills include:
+- JavaScript (ES6+)
+- HTML (semantic and accessible markup)
+- CSS (incl. pixel-perfect, responsive and cross-browser layout)
+- SCSS/SASS
+- Vue JS (2 and 3)
+- React
+- Git (incl. git-flow)
+- Gulp
+- Working as a part of a team
+- Writing clean, understandable and consistend code
+- Code refactoring
 
-Here are some ideas to get you started:
+## Experience:
+### Cleversite
+Junior Vue JS web-developer (sep 2021 - present)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education:
+ITStep Academy, Full-Stack web-development faculty).
+
+## Contact me:
+Telegram - @BMFreed
+VK - https://vk.com/id164679156
